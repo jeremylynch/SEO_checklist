@@ -24,4 +24,4 @@ On-page SEO optimization list.
 - [ ] Create a robots.txt file and submit it to Google Search Console, [Google Robots.txt](https://support.google.com/webmasters/answer/6062596?hl=en)
 - [ ] Claim your brand name on as many social networking sites as possible. [Namechk](https://namechk.com/)
 - [ ] Use an SEO Audit Tool to double-check everything. [Seo Audit links](https://www.clickminded.com/seo-check-site-analysis/)
-
+- [ ] Obtain as many backlinks as possible from affiliates. 
